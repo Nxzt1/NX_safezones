@@ -1,4 +1,4 @@
-# NX_safezones
+# nx_safezones
 
 Safe zones for FiveM with per-job, per-grade and ACE exceptions.
 Works on Qbox, QBCore, ESX Legacy or with no framework at all.
